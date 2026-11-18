@@ -1,0 +1,3 @@
+Hari ini saya belajar Java.
+Saya sedang mencoba menulis file.
+Semoga programnya berjalan lancar.
