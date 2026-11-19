@@ -1,3 +1,3 @@
-Halo, nama saya chelsea.
-Saya sedang belajar Java.
-Saya belajar membaca dan menulis file.
+Belajar Java itu menyenangkan
+OOP bikin kode lebih rapi
+Besok kita bikin database
